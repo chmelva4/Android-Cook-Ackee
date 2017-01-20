@@ -1,4 +1,4 @@
-package ackee.cz.cookbook;
+package cz.ackee.cookbook;
 
 import org.junit.Test;
 

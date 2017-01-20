@@ -1,4 +1,4 @@
-package ackee.cz.cookbook;
+package cz.ackee.cookbook;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
