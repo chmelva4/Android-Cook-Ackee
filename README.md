@@ -7,19 +7,23 @@ Here is a Task for you! Create Android version of delicious ackee recipes. We ha
 - Designs
 - Simple Android skeleton with some prepared code
 
-it should take you around 2-4 hours to complete
+it should take you only a few hours to complete
 
 ## API & Server
 Documentation for the api can be found on [apiary][2]
 live server can be visited on address [https://cookbook.ack.ee][3]
 
 ## Designs
-Application should contain those 3 screens.
+Application should contain those 3 screens. The sketch can be found on [https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/ackee_cookbook.sketch][sketch]
 
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/01_list.png" width="200">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/02_detail.png" width="200">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/03_add.png" width="200">&nbsp;
 
+
+- List of recipes
+- Recipe detail with rating (accessed via click in the list)
+- Form for adding a new recipe (accessed via plus button)
 
 ### Tasks for you
 
