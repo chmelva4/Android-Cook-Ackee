@@ -30,7 +30,9 @@ Application should contain those 3 screens. The sketch can be found [here][4]
 - Write the app :)
 - Use as much standards as we do in our [Android Cookbook][5]
 - Using reactive programming and MVP Architecture is a big advantage
-- There are only few recipes on server, however you should take in mind that the application should deal with any number of recipes!
+- Application should be able to run on every device and every orientation 
+- There are only few recipes on server, however you should take in mind that the application should deal with any number of recipes (paging should be implemented)!
+- Application should cache its data so when ran offline, we can still read our recipes. 
 - Use 3rd party libraries, technologies and frameworks as you like. Have a good reason to use any of them, though.  If you will use Kotlin, we will love you.
 - If you want to add anything extra, just go for it!
 - Send it to us as link to dropbox / GDrive / etc..
