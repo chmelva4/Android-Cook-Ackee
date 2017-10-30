@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Cookbook</string>
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingredients">Ingredience</string>
+    <string name="prepare">Příprava jídla</string>
+    <string name="rate_recipe">Ohodnoť tento recept</string>
+    <string name="nutela_popis">Snad všechno je lepší vyrobené podomácku. Takže co takhle podomácku vyrobená nutella? Opravdu napěchovaná oříšky? Na mě osobně je třeba kupovaná nutella příliš sladká a jiné značky “oříškových pomazánek” mi moc nechutnají, takže jak to vyřešit? Vyrobte si domácí, upravte si klidně množství cukru nebo do ní přidejte trošku rozpuštěné čokolády. Jak si budete přát. A příště, až budete prohlížet naše stránky, budete olizovat lžíci od vaší výborné domácí nutelly.</string>
+    <string name="nutela_postup">V troubě předehřáté na 170 °C opékejte oříšky asi 12 minut nebo dokud lehce nezhnědnou. Když trochu zchladnout, zabalte je to utěrky a drhněte je proti lince, abyste odstranili co nejvíce slupek. Nechte vychladnout.
+Rozehřejte čokoládu. (Nejlépe ve vodní lázni, ale můžete použít i mikrovlnku, nebo ji rozehřát přímo v kastrůlku.)
+V mixéru rozemelte oříšky, dokud nevytvoří pastu. Přidejte zbylé ingredience kromě čokolády a znovu rozmixujte. Nakonec přidejte čokoládu a ještě jednou promixujte.</string>
+    <string name="bullet"><![CDATA[<ul><li>aaa</li>\n<li>bbbbb</li></string></ul>]]></string>
+    <string name="gangsta_ipsum">Break it down ipsum crackalackin go to hizzle away, shit adipiscing rizzle. Fo shizzle i saw beyonces tizzles and my pizzle went crizzle gizzle, rizzle volutpat, uhuh ... yih! quis, things dope, get down get down. Ghetto crunk tortor. I\'m in the shizzle erizzle. shizzle my nizzle crocodizzle dolor dapibus turpis ghetto doggy. Maurizzle pellentesque nibh shiz turpizzle. Vestibulum izzle tortor. Mah nizzle check out this rhoncus break yo neck, yall. In hac yo mamma dope dictumst. Donec dapibizzle. Stuff tellizzle urna, pretium eu, mattizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle, eleifend vitae, nunc. Break it down suscipizzle. Bow wow wow sempizzle yippiyo that\'s the shizzle sure.</string>
 </resources>
