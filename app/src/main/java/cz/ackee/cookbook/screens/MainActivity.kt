@@ -1,6 +1,7 @@
 package cz.ackee.cookbook.screens
 
 import android.os.Bundle
+import android.os.PersistableBundle
 import android.support.design.widget.FloatingActionButton
 import android.support.design.widget.Snackbar
 import android.support.v4.app.FragmentManager
@@ -21,14 +22,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("ac", "here")
         supportFragmentManager.beginTransaction().add(R.id.fragment_container, RecipeDetailFragment()).commit()
-        val toolbar = findViewById(R.id.toolbar) as Toolbar
-        setSupportActionBar(toolbar)
+//        val toolbar = findViewById(R.id.toolbar) as Toolbar
+//        setSupportActionBar(toolbar)
 
-        val fab = findViewById(R.id.fab) as FloatingActionButton
-        fab.setOnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                    .setAction("Action", null).show()
-        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -48,5 +44,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         return super.onOptionsItemSelected(item)
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
+        super.onCreate(savedInstanceState, persistentState)
     }
 }
